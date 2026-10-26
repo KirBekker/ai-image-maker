@@ -11,7 +11,7 @@ This index supports model-aware image prompting, editing, visual quality review,
 - [OpenAI: New ChatGPT Images](https://openai.com/index/new-chatgpt-images-is-here/) — 2025-12-16 — English — product release
 - [OpenAI: ChatGPT Images 2.0 system card](https://deploymentsafety.openai.com/chatgpt-images-2-0/chatgpt-images-2-0.pdf) — 2026-04-21 — English — safety evaluation
 - [OpenAI: Introducing ChatGPT Images 2.5](https://openai.com/index/introducing-chatgpt-images-2-5/) — 2026-09-08 — English — product release
-- [OpenAI API: Image generation guide](https://developers.openai.com/api/docs/guides/image-generation) — maintained documentation checked 2026-10-26 — English — API guide
+- [OpenAI API: Image generation guide](https://developers.openai.com/api/docs/guides/image-generation) — updated for GPT Image 2.5 on 2026-09-08; checked 2026-10-26 — English — API guide
 - [Google: Image editing in Gemini](https://blog.google/products-and-platforms/products/gemini/image-editing/) — 2025-04-30 — English — product release
 - [Google: Updated image editing model](https://blog.google/products-and-platforms/products/gemini/updated-image-editing-model/) — 2025-08-26 — English — product release
 - [Google: Image generation prompting tips](https://blog.google/products-and-platforms/products/gemini/image-generation-prompting-tips/) — 2025-08-26 — English — prompting guide
@@ -30,7 +30,7 @@ This index supports model-aware image prompting, editing, visual quality review,
 - [ByteDance Seed: Seedream 3.0](https://seed.bytedance.com/en/tech/seedream3_0) — 2025-04-16 — English — model release
 - [Midjourney: Version history](https://docs.midjourney.com/hc/en-us/articles/32199405667853-Version) — 2025–2026 release dates — English — model/version notes
 - [Canva: Canva AI launches](https://www.canva.com/newsroom/news/canva-ai-launches/) — 2025-04-10 — English — product release
-- [Black Forest Labs: FLUX.2](https://blackforestlabs.ai/flux-2/) — 2025-11-25 — English — model release
+- [ByteDance Seed: Seedream 4.0](https://seed.bytedance.com/en/blog/seedream-4-0-officially-released-beyond-drawing-into-imagination) — 2025-09-09 — English — model release
 
 ## Research preprints
 
